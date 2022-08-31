@@ -31,8 +31,7 @@ class Bootstrap{
             $this->action = $this->request["action"];
             
         }
-        echo $this->controller." ",$this->action;
-
+     
     }
 // End of The constructor 
 
