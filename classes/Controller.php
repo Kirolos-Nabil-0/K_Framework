@@ -19,7 +19,7 @@ abstract class Controller{
     //Return View Function
     protected function returnView($viewmodel,$fullView){
         $view = "views/".get_class($this)."/".$this->action.".php";
-        if($fullview){
+        if($fullView){
             require("views/main.php");
         }else {
             require($view);
