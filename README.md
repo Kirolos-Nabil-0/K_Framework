@@ -9,6 +9,6 @@ This Frame Work is very easy And Will Help You Building Your php projects in cou
 - There Are controller and model place Holder Named 'home' Read its
 - You Dont have to know alot about oop
 ## Exampels
-
-Soon I will Add some Exampels With K FrameworK
+[Shreing project](https://github.com/KandK0/Shares_project)
+Soon I will Add more Exampels With K FrameworK
 
